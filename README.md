@@ -1,4 +1,4 @@
 PICUpload
 =========
 
-Mit diesem Script kannst du ganz einfach Bilder auf dein Webspace laden.
+With this script you can easily upload images to your web space.
